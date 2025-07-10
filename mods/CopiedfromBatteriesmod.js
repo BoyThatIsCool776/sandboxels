@@ -2,7 +2,7 @@ elements.titanium = {
     desc: "Another metal that does not erode nor conduct electricity",
 	conduct: 0,
 	color: ["#a1ada5","#ebf5ee","#bac2bc","#848a86","#505251"],
-	tempHigh:3000,
+	tempHigh:30000,
     stateHigh: "molten_titanium",
     category: "solids",
     state: "soild",
@@ -50,7 +50,7 @@ elements.Reniforced_Titanuim = {
         "i": "#332f2f"},
     behavior: behaviors.WALL,
     
-    tempHigh: 10000,
+    tempHigh: 100000,
     stateHigh : "molten_titanium",
     category: "solids",
     state: "solid",
