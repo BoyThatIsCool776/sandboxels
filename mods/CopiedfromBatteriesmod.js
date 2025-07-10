@@ -50,7 +50,7 @@ elements.Reniforced_Titanuim = {
         "i": "#332f2f"},
     behavior: behaviors.WALL,
     
-    tempHigh: 1000000000,
+    tempHigh: 10000,
     stateHigh : "molten_titanium",
     category: "solids",
     state: "solid",
